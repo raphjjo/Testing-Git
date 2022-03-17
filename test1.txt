@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is BC3F-7ADD
+
+ Directory of C:\Users\RAPHJJO\Desktop\Testing Git
+
+03/17/2022  12:49 AM    <DIR>          .
+03/17/2022  12:49 AM    <DIR>          ..
+03/17/2022  12:49 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  47,680,434,176 bytes free
